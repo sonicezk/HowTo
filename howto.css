@@ -1,0 +1,63 @@
+  h1 {
+      font-family: 'Encode Sans Expanded', serif;
+      font-size: 43px;
+      color: black;
+    }
+    
+    h2,
+    h3 {
+      font-family: 'Open Sans', serif;
+      font-size: 28px;
+      color: black;
+    }
+    
+    p {
+      font-family: 'Roboto Condensed', serif;
+      font-size: 17px;
+      color: black;
+    }
+    
+    .sections {
+      color: black;
+      margin: 20px 0 20px 0;
+      padding: 20px;
+    }
+    
+    .outer-box {
+      background-color: grey;
+      margin: 10px;
+      padding: 10px;
+      min-height: 300px;
+    }
+    
+    .name {
+      color: white;
+      font-family: Tahoma;
+      margin-left: 20px;
+    }
+    
+    .picture {
+      margin-left: 20px;
+      float: left;
+      margin-right: 20px;
+      margin-bottom: 20px;
+      border: 2px solid black;
+    }
+    
+    .bio {
+      font-family: Tahoma;
+      padding-left: 20px;
+      padding-right: 20px;
+      padding-bottom: 20px;
+    }
+  
+    ul {
+      list-style-type:square; 
+      font-family:"Roboto Condensed">
+    }
+    #ad{
+      float:right;
+    }
+    #me{
+      display:block;
+    }
